@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="1" failures="0" time="3.648">
+  <testsuite name="Root Suite" timestamp="2025-11-06T19:53:43" tests="0" file="cypress\e2e\home_page.cy.js" time="0.000" failures="0"></testsuite>
+  <testsuite name="Ultimate QA - Test de Navigare" timestamp="2025-11-06T19:53:43" tests="1" time="3.648" failures="0">
+    <testcase name="Ultimate QA - Test de Navigare ar trebui să navigheze la pagina de exerciții și să verifice titlul" time="3.619" classname="ar trebui să navigheze la pagina de exerciții și să verifice titlul"></testcase>
+  </testsuite>
+</testsuites>
